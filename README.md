@@ -19,5 +19,10 @@ containing the Pydo files.
 python setup.py install
 ```
 
+## Documentation
+
+Check http://jriddick.me/pydo.html for an live preview of Pydo and
+the documentation for Pydo. 
+
 And now you can use Pydo to generate static HTML version of all your 
 Markdown documents.
